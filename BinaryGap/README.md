@@ -1,13 +1,11 @@
-*** Binary Gap
+### Binary Gap
 https://app.codility.com/demo/results/trainingQBB89B-FMN/
 
-* Total Score
+# Total Score
 100%
 
-* Correctness
+# Correctness
 100%
 
-* Time spent
+# Time spent
 55 min
-
-* Task Description
